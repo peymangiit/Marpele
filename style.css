@@ -107,7 +107,7 @@ section{
 /* ................end of map section */
 
 /* ......pawn icon........ */
-#dragme{
+.drag{
     cursor: pointer;
     z-index: 3;
     position: relative;
